@@ -1,0 +1,23 @@
+.name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.price {
+    color: red;
+}
+
+.add-to-cart {
+    padding: .75rem .75rem;
+    border: darkred 1px solid;
+    border-radius: 2rem;
+    background-color: inherit;
+    color: red;
+    cursor: pointer;
+}
+
+.add-to-cart:hover {
+    background-color: darkred;
+    color: white;
+}

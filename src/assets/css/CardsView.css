@@ -1,0 +1,11 @@
+ul.cards {
+    width: fit-content;
+    column-count: 3;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.cards li {
+    margin-bottom: 1rem;
+}
